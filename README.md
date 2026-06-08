@@ -2,7 +2,7 @@
 # Data Normalization & Marketing Analytics Dashboard 📊
 
 <p align="center">
-  <img src="dashboard.png" width="750" alt="Dashboard Preview">
+  <img src="https://images.gemini.googleusercontent.com/blob/5742517865181184000?raw=true" width="700">
 </p>
 
 [CLICK ACÁ PARA ACCEDER AL DASHBOARD INTERACTIVO](https://datastudio.google.com/reporting/9dff2c91-74f2-47e4-a922-0e62997b1e63)**
