@@ -1,9 +1,11 @@
 # data-normalization-and-analytics-dashboard_marketing_manager
-<img width="600" height="200" alt="imagen" src="https://github.com/user-attachments/assets/ad2ec6e8-7e52-4c87-bc9c-90ada96e1010" />
+# Data Normalization & Marketing Analytics Dashboard 📊
 
-> 🚀 **[CLICK ACÁ PARA ACCEDER AL DASHBOARD INTERACTIVO](https://datastudio.google.com/reporting/9dff2c91-74f2-47e4-a922-0e62997b1e63)**
-Desarrollo de BI de punta a punta para un Marketing Manager.  Tomé una planilla de pauta digital desorganizada, apliqué una etapa de limpieza estructural y cálculo de métricas en las tablas de origen, y diseñé un Dashboard Estratégico para monitorear el pacing del presupuesto y optimizar canales en tiempo real.
+![Dashboard Preview](https://github.com/tu-usuario/data-normalization-and-analytics-dashboard_marketing_manager/blob/main/tu-imagen.png?raw=true)
 
+[CLICK ACÁ PARA ACCEDER AL DASHBOARD INTERACTIVO](https://datastudio.google.com/reporting/9dff2c91-74f2-47e4-a922-0e62997b1e63)**
+
+---
 Etapa 1: Limpieza, Transformación y Modelado de Datos
 Para asegurar que el dashboard mostrara información confiable y exacta para el negocio, se realizó un proceso de transformación a nivel de tablas y columnas resolviendo los siguientes puntos:
 
