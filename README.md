@@ -5,6 +5,7 @@
 
 
 [CLICK ACÁ PARA ACCEDER AL DASHBOARD INTERACTIVO](https://datastudio.google.com/reporting/9dff2c91-74f2-47e4-a922-0e62997b1e63)**
+[CLICK ACÁ PARA ACCEDER A LA HOJA CON DATOS NORMALIZADOS](https://docs.google.com/spreadsheets/d/11NsZsbCkbBpkp_0lx13aH33ZDz_pdHDg/edit?usp=sharing&ouid=118417608834590087879&rtpof=true&sd=true)**
 
 ---
 Dashboard enfocado para la toma de decisión de inversión de un Marketing Manager.
