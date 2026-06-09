@@ -1,5 +1,5 @@
 # data-normalization-and-analytics-dashboard_marketing_manager
-# Data Normalization & Marketing Analytics Dashboard 📊
+# Data Normalization & Marketing Analytics Dashboard 📊 
 
 <img width="500" height="300" alt="imagen" src="https://github.com/user-attachments/assets/3d4d7aba-88b3-4b99-a9dc-6286ae77c0ef" />
 
@@ -7,6 +7,7 @@
 [CLICK ACÁ PARA ACCEDER AL DASHBOARD INTERACTIVO](https://datastudio.google.com/reporting/9dff2c91-74f2-47e4-a922-0e62997b1e63)**
 
 ---
+Dashboard enfocado para la toma de decisión de inversión de un Marketing Manager.
 Etapa 1: Limpieza, Transformación y Modelado de Datos
 Para asegurar que el dashboard mostrara información confiable y exacta para el negocio, se realizó un proceso de transformación a nivel de tablas y columnas resolviendo los siguientes puntos:
 
