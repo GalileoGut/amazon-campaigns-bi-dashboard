@@ -8,6 +8,7 @@
 
 ---
 Dashboard enfocado para la toma de decisión de inversión de un Marketing Manager.
+
 Etapa 1: Limpieza, Transformación y Modelado de Datos
 Para asegurar que el dashboard mostrara información confiable y exacta para el negocio, se realizó un proceso de transformación a nivel de tablas y columnas resolviendo los siguientes puntos:
 
